@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm David 🌊
 
-<!--
-**Syntex9000/syntex9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Syntex 9000 in the digital realm*
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/Syntex9000.png" width="150" alt="David's avatar" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Net Architect | DevOps Engineer | AI Platform Engineer**
+
+I'm an experienced Net Architect & DevOps professional expanding my expertise — adding **AI Platform Engineering** to my ever-growing tool belt.
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syntex9000/)
